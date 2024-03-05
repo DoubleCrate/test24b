@@ -1,0 +1,19 @@
+.header-class {
+    background-color: rgb(16,16,16);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    min-width: 1920px;
+    max-width: 1920px;
+}
+.logo-class {
+    width: 100px;
+}
+.ul-menu-class {
+    display : flex;
+    list-style-type: none;
+    gap: 15px;
+    color: white;
+    
+}
