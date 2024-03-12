@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../logo.svg'
+import logo from '../../unnamed.gif'
 import './Header.css'
 import '../../App.css'
 
@@ -13,7 +13,6 @@ const Header = () => {
                     <li>Home</li>
                     <li>About us</li>
                     <li>Contacts</li>
-                    <li>Dimmi omacciuolo... cosa fa rima con allegro?</li>
                 </ul>
             </nav>
         </div>
